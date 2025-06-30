@@ -1,0 +1,10 @@
+{
+    "id": "highlight-extractor",
+    "name": "Highlight Extractor",
+    "version": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "description": "Extract highlights from your notes into a formatted template",
+    "author": "Joey Clancy",
+    "authorUrl": "https://github.com/clancyj11",
+    "isDesktopOnly": false
+}
