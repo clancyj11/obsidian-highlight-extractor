@@ -129,7 +129,6 @@ Create your own template using these variables:
 ## Commands
 
 - **Extract highlights from current note**: Extracts all highlights from the active note
-- **Toggle auto-extract for current note**: Enable/disable automatic extraction (if enabled in settings)
 
 ## Tips
 
