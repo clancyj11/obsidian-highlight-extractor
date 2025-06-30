@@ -146,7 +146,7 @@ Create your own template using these variables:
 
 ## License
 
-MIT License - see LICENSE file for details
+GNU GPLv3 - see LICENSE file for details
 
 ## Acknowledgments
 
